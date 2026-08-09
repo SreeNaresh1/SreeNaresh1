@@ -80,21 +80,13 @@ A backend system for mentor-mentee relationship management — authentication, r
 - Cloud Deployment & DevOps
 
 ---
+### 🌐 Find me here
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SreeNaresh1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/sree-naresh-a-1762b8329/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#https://www.kaggle.com/sreenaresh1)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](#https://leetcode.com/u/LKYVVTUJ3y/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](#https://www.hackerrank.com/profile/astrostarnaresh)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](#https://huggingface.co/SreeNaresh)
 
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sree-naresh-a-1762b8329/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/SreeNaresh1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://huggingface.co/SreeNaresh">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-</p>
-
-<p align="center">
 <i>Building practical AI systems and learning by shipping.</i>
 </p>
