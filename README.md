@@ -20,10 +20,6 @@ A multi-agent AI study planner that transforms academic syllabi into personalize
 An AI-powered IPL analytics platform that predicts ball-by-ball win probability and provides explainability and counterfactual "what-if" analysis.
 `Python` `XGBoost` `SHAP` `FastAPI`
 
-**🎓 MMRMS**
-A backend system for mentor-mentee relationship management — authentication, role-based access control, meetings, evidence management, notifications, and audit logging.
-`Node.js` `Express` `TypeScript` `Prisma` `PostgreSQL` `JWT`
-
 ---
 
 ### 🛠️ Tech Stack
@@ -39,19 +35,16 @@ A backend system for mentor-mentee relationship management — authentication, r
 ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-1560BD?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-00B140?style=flat-square)
-`Computer Vision` `Explainable AI (SHAP)` `Data Processing`
+`Explainable AI (SHAP)` `Data Processing`
 
 **Software Development**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 `REST APIs`
 
 **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-`Prisma`
 
 **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -74,7 +67,6 @@ A backend system for mentor-mentee relationship management — authentication, r
 - Agentic AI & Multi-Agent Systems
 - LLM Applications & AI Reasoning
 - AI Application Development
-- Computer Vision
 - Backend & API Development
 - System Design
 - Cloud Deployment & DevOps
