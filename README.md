@@ -33,13 +33,10 @@ An AI-powered IPL analytics platform that predicts ball-by-ball win probability 
 **AI / Machine Learning**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-1560BD?style=flat-square)
-![LightGBM](https://img.shields.io/badge/-LightGBM-00B140?style=flat-square)
 `Explainable AI (SHAP)` `Data Processing`
 
 **Software Development**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 `REST APIs`
 
@@ -74,11 +71,11 @@ An AI-powered IPL analytics platform that predicts ball-by-ball win probability 
 ---
 ### 🌐 Find me here
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SreeNaresh1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/sree-naresh-a-1762b8329/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](#https://www.kaggle.com/sreenaresh1)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](#https://leetcode.com/u/LKYVVTUJ3y/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](#https://www.hackerrank.com/profile/astrostarnaresh)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](#https://huggingface.co/SreeNaresh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-naresh-a-1762b8329/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sreenaresh1)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LKYVVTUJ3y/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/astrostarnaresh)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/SreeNaresh)
 
 <i>Building practical AI systems and learning by shipping.</i>
 </p>
