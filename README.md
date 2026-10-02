@@ -20,6 +20,10 @@ A multi-agent AI study planner that transforms academic syllabi into personalize
 An AI-powered IPL analytics platform that predicts ball-by-ball win probability and provides explainability and counterfactual "what-if" analysis.
 `Python` `XGBoost` `SHAP` `FastAPI`
 
+**⚡ IncidentLab**
+A hands-on distributed systems failure laboratory in Docker Compose that reproduces canonical failures (split-brain, retry storms, cache stampedes), observes degradation in Grafana, and mathematically verifies recovery.
+`Distributed Systems` `Docker` `FastAPI` `Prometheus` `Grafana` `k6`
+
 ---
 
 ### 🛠️ Tech Stack
